@@ -25,9 +25,9 @@ function spin(){
     let Alex = shuffle([1570,1930,2290]); 
 
 
-   /*let Dirk = shuffle([1770,2130,2490]);
+   let Dirk = shuffle([1770,2130,2490]);
     let Nin = shuffle([1770,2130,2490]);
-    let Micheal = shuffle([1770,2130,2490]);*/
+    let Micheal = shuffle([1770,2130,2490]);
    
     let results = shuffle([
 
